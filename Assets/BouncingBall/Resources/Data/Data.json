@@ -1,0 +1,24 @@
+{
+  "BallData": {
+    "HealthSystem": {
+      "MaxHealth": 4
+    },
+    "MaxSpeed": 10
+  },
+
+  "MushroomData": {
+    "MaxHealthAmount": 1
+  },
+
+  "CactusData": {
+    "MaxHealthAmount": 1,
+    "MaxMoveSpeed": 2
+  },
+
+  "NominalCoin": 50,
+  "_levelName": [
+    "1",
+    "2",
+    "3"
+  ]
+}
